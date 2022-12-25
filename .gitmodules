@@ -1,0 +1,36 @@
+[submodule "flecs-systems-sokol"]
+	path = flecs-systems-sokol
+	url = https://github.com/flecs-hub/flecs-systems-sokol
+[submodule "flecs-components-gui"]
+	path = flecs-components-gui
+	url = https://github.com/flecs-hub/flecs-components-gui
+[submodule "flecs-components-graphics"]
+	path = flecs-components-graphics
+	url = https://github.com/flecs-hub/flecs-components-graphics
+[submodule "flecs-systems-transform"]
+	path = flecs-systems-transform
+	url = https://github.com/flecs-hub/flecs-systems-transform
+[submodule "flecs-components-geometry"]
+	path = flecs-components-geometry
+	url = https://github.com/flecs-hub/flecs-components-geometry
+[submodule "flecs-components-input"]
+	path = flecs-components-input
+	url = https://github.com/flecs-hub/flecs-components-input
+[submodule "build/flecs-components-cglm"]
+	path = flecs-components-cglm
+	url = https://github.com/flecs-hub/flecs-components-cglm
+[submodule "flecs-components-transform"]
+	path = flecs-components-transform
+	url = https://github.com/flecs-hub/flecs-components-transform
+[submodule "flecs-game"]
+	path = flecs-game
+	url = https://github.com/flecs-hub/flecs-game
+[submodule "flecs-components-physics"]
+	path = flecs-components-physics
+	url = https://github.com/flecs-hub/flecs-components-physics
+[submodule "flecs-systems-physics"]
+	path = flecs-systems-physics
+	url = https://github.com/flecs-hub/flecs-systems-physics
+[submodule "city"]
+	path = city
+	url = https://github.com/flecs-hub/city
